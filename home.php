@@ -9,8 +9,8 @@
 
     <meta property="og:title" content="Malcolm Photography - Professional Photography Website">
     <meta property="og:description" content="Explore stunning landscapes, portraits, and creative photography. Built with HTML, CSS, and JavaScript.">
-    <meta property="og:image" content="https://AQEEL1007.github.io/Malcolm-Photography/images/THUMBNAIL IMAGE.jpeg">
-    <meta property="og:url" content="https://AQEEL1007.github.io/Malcolm-Photography">
+    <meta property="og:image" content="https://AQEEL1007.github.io/malcolm-photography/images/THUMBNAIL IMAGE.jpeg">
+    <meta property="og:url" content="https://AQEEL1007.github.io/malcolm-photography">
     <meta name="twitter:card" content="summary_large_image">
 
 
