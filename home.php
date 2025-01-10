@@ -7,7 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>home</title>
 
-    <meta property="og:image" content="https://yourwebsite.infinityfreeapp.com/thumbnail.jpg">
+    <meta property="og:title" content="Malcolm Photography - Professional Photography Website">
+    <meta property="og:description" content="Explore stunning landscapes, portraits, and creative photography. Built with HTML, CSS, and JavaScript.">
+    <meta property="og:image" content="https://AQEEL1007.github.io/Malcolm-Photography/images/THUMBNAIL IMAGE.jpeg">
+    <meta property="og:url" content="https://AQEEL1007.github.io/Malcolm-Photography">
+    <meta name="twitter:card" content="summary_large_image">
+
 
     <!-- font awesome cdn link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
